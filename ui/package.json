@@ -11,7 +11,7 @@
     "test:e2e": "vue-cli-service test:e2e"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "build": "^0.1.4",
     "core-js": "^2.6.11",
     "element-ui": "^2.13.1",
